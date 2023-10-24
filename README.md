@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1>### Olá eu sou Kalil Farias 👋<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> </h1> 
 
-<!--
-**KalilFarias/KalilFarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente Estagiário na Polícia Científica;<br>
+Graduando em Engenharia da Computação pela UMJ;<br>
+Experiência nas linguagens: PHP e Javascript com as respectivas linguagens de marcação HTML5 e CSS3;<br>
+Conhecimento prévio na linguagem Java, com projeto já feito (CRUD).
+<!-- <p align = left> Languages: </p> -->
 
-Here are some ideas to get you started:
+<p><img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
+<img align="center" alt="Javascript" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
+  <img align="center" alt="Javascript" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+<img align="center" alt="Git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+<img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+<img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</p> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Status de Utilização do meu github](https://github-readme-stats.vercel.app/api?username=KalilFarias&show_icons=true&theme=transparent)
+![Linguagens utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KalilFarias&layout=compact&show_icons=true&theme=transparent)
+
+
+<a href="https://instagram.com/kalilfariass" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:kalilsandes42@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/kalil-farias-a26805264/?originalSubdomain=br" target="_blank"><img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+
+
