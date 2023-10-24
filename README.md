@@ -14,8 +14,7 @@ Conhecimento prévio na linguagem Java, com projeto já feito (CRUD).
 <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </p> 
 
-![Status de Utilização do meu github](https://github-readme-stats.vercel.app/api?username=KalilFarias&show_icons=true&theme=transparent)
-![Linguagens utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KalilFarias&layout=compact&show_icons=true&theme=transparent)
+
 
 
 <a href="https://instagram.com/kalilfariass" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
