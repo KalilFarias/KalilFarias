@@ -18,6 +18,6 @@ Conhecimento prévio na linguagem Java, com projeto já feito (CRUD).
 
 <a href="https://instagram.com/kalilfariass" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:kalilsandes42@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
-<a href="https://www.linkedin.com/in/kalil-farias-a26805264/?originalSubdomain=br" target="blank"><img src="https://blog.b2bstack.com.br/wp-content/uploads/2022/11/LinkedIn-simbolo.jpg.webp" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/kalil-farias-a26805264/?originalSubdomain=br" target="blank"><img src="https://raw.githubusercontent.com/linnovate/root-me/master/src/images/icons/linkedin.ico" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 
 
