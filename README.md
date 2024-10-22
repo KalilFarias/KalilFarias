@@ -1,6 +1,6 @@
 <h1>### Olá eu sou Kalil Farias 👋<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> </h1> 
 
-Atualmente Estagiário na Polícia Científica;<br>
+Já fui Estagiário na Polícia Científica;<br>
 Graduando em Engenharia da Computação pela UMJ;<br>
 Experiência nas linguagens: PHP e Javascript com as respectivas linguagens de marcação HTML5 e CSS3;<br>
 Conhecimento prévio na linguagem Java, com projeto já feito (CRUD).
