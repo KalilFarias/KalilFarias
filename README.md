@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor full-stack com formação em Engenharia da Computação pela Universidade Mário Pontes Jucá (UMJ). Durante minha formação, adquiri uma base sólida em tecnologias de desenvolvimento web e boas práticas de programação, com foco em PHP, HTML5, CSS, JavaScript, Docker e outras ferramentas essenciais.
 Minha experiência profissional inclui:
-•Freelancer: Desenvolvimento de sistemas personalizados para empreendedores e pequenos negócios. Implantei soluções sob medida que melhoraram processos internos e a presença digital dos clientes, incluindo integração com APIs, automação de rotinas e aplicações responsivas com SEO otimizado.
+<p>•Freelancer: Desenvolvimento de sistemas personalizados para empreendedores e pequenos negócios. Implantei soluções sob medida que melhoraram processos internos e a presença digital dos clientes, incluindo integração com APIs, automação de rotinas e aplicações responsivas com SEO otimizado.</p>
 <p>•Desenvolvedor Web na Polícia Científica de Alagoas (POLCAL):
 Desenvolvimento de sistemas internos utilizando PHP e o framework Laravel, aprimorando a gestão de informações sensíveis e otimizando tarefas administrativas.
 Criação de soluções com MySQL para armazenamento e manipulação eficiente de dados sensíveis, garantindo integridade e confiabilidade.
