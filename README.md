@@ -1,8 +1,14 @@
 <h1>### Olá eu sou Kalil Farias 👋<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> </h1> 
 
-Sou um desenvolvedor full-stack com formação em Engenharia da Computação pela Universidade Mário Pontes Jucá (UMJ). Durante minha graduação, desenvolvi uma sólida base de habilidades técnicas, incluindo PHP, HTML5, CSS e JavaScript, Docker entre outras tecnologias essenciais para o desenvolvimento web.
-
-Minha experiência profissional inclui a criação de sistemas online como freelancer, onde desenvolvi e implementei sites personalizados para empreendedores, atendendo a suas necessidades específicas e garantindo a entrega de soluções eficazes e de alta qualidade. Além disso, atuei como estagiário na Polícia Científica de Alagoas (POLCAL), onde desempenhei um papel crucial na area de desenvolvimento, criando projetos em prol dos colaboradores internos. Durante esse estágio, participei de treinamentos especializados, adquirindo conhecimentos aprofundados sobre as ferramentas e stacks de trabalho utilizadas pela equipe, bem como experiência prática na área de cibersegurança.
+Sou um desenvolvedor full-stack com formação em Engenharia da Computação pela Universidade Mário Pontes Jucá (UMJ). Durante minha formação, adquiri uma base sólida em tecnologias de desenvolvimento web e boas práticas de programação, com foco em PHP, HTML5, CSS, JavaScript, Docker e outras ferramentas essenciais.
+Minha experiência profissional inclui:
+•Freelancer: Desenvolvimento de sistemas personalizados para empreendedores e pequenos negócios. Implantei soluções sob medida que melhoraram processos internos e a presença digital dos clientes, incluindo integração com APIs, automação de rotinas e aplicações responsivas com SEO otimizado.
+•Desenvolvedor Web na Polícia Científica de Alagoas (POLCAL):
+Desenvolvimento de sistemas internos utilizando PHP e o framework Laravel, aprimorando a gestão de informações sensíveis e otimizando tarefas administrativas.
+Criação de soluções com MySQL para armazenamento e manipulação eficiente de dados sensíveis, garantindo integridade e confiabilidade.
+Uso de Git para controle de versão e colaboração em equipe, assegurando rastreabilidade e organização durante o desenvolvimento.
+Implementação de boas práticas em segurança da informação, incluindo melhorias na autenticação e controle de acesso nos sistemas desenvolvidos.
+Participação em treinamentos especializados na Stack utilizada, como PHP, Laravel e MySQL, com foco em segurança e eficiência no desenvolvimento de aplicações. Ademais, sou proativo na busca por inovações tecnológicas e possuo experiência com automação de processos, desenvolvimento de interfaces intuitivas e manutenção de sistemas legados, sempre priorizando entregas ágeis e de alta qualidade.
 
 Com uma combinação de habilidades técnicas avançadas e experiência prática em ambientes dinâmicos e desafiadores, estou preparado para contribuir significativamente para projetos de desenvolvimento web e soluções tecnológicas inovadoras.
 <!-- <p align = left> Languages: </p> -->
